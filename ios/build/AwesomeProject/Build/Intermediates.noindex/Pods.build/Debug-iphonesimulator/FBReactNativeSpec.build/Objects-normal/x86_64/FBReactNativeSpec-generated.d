@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/rezaperdana/ReactNativeProject/AwesomeProject/node_modules/react-native/Libraries/FBReactNativeSpec/FBReactNativeSpec/FBReactNativeSpec-generated.mm \
+  /Users/rezaperdana/ReactNativeProject/AwesomeProject/ios/Pods/Target\ Support\ Files/FBReactNativeSpec/FBReactNativeSpec-prefix.pch \
+  /Users/rezaperdana/ReactNativeProject/AwesomeProject/node_modules/react-native/Libraries/FBReactNativeSpec/FBReactNativeSpec/FBReactNativeSpec.h \
+  /Users/rezaperdana/ReactNativeProject/AwesomeProject/ios/Pods/Headers/Public/RCTRequired/RCTRequired/RCTRequired.h \
+  /Users/rezaperdana/ReactNativeProject/AwesomeProject/ios/Pods/Headers/Public/RCTTypeSafety/RCTTypeSafety/RCTConvertHelpers.h \
+  /Users/rezaperdana/ReactNativeProject/AwesomeProject/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyVector.h \
+  /Users/rezaperdana/ReactNativeProject/AwesomeProject/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyIterator.h \
+  /Users/rezaperdana/ReactNativeProject/AwesomeProject/ios/Pods/Folly/folly/Optional.h \
+  /Users/rezaperdana/ReactNativeProject/AwesomeProject/ios/Pods/Folly/folly/Portability.h \
+  /Users/rezaperdana/ReactNativeProject/AwesomeProject/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/rezaperdana/ReactNativeProject/AwesomeProject/ios/Pods/Folly/folly/CPortability.h \
+  /Users/rezaperdana/ReactNativeProject/AwesomeProject/ios/Pods/Folly/folly/Traits.h \
+  /Users/rezaperdana/ReactNativeProject/AwesomeProject/ios/Pods/Folly/folly/Utility.h \
+  /Users/rezaperdana/ReactNativeProject/AwesomeProject/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/rezaperdana/ReactNativeProject/AwesomeProject/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/rezaperdana/ReactNativeProject/AwesomeProject/ios/Pods/Headers/Public/RCTTypeSafety/RCTTypeSafety/RCTTypedModuleConstants.h \
+  /Users/rezaperdana/ReactNativeProject/AwesomeProject/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/rezaperdana/ReactNativeProject/AwesomeProject/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/rezaperdana/ReactNativeProject/AwesomeProject/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/rezaperdana/ReactNativeProject/AwesomeProject/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/rezaperdana/ReactNativeProject/AwesomeProject/ios/Pods/Headers/Public/React-Core/React/RCTCxxConvert.h \
+  /Users/rezaperdana/ReactNativeProject/AwesomeProject/ios/Pods/Headers/Public/React-Core/React/RCTManagedPointer.h \
+  /Users/rezaperdana/ReactNativeProject/AwesomeProject/ios/Pods/Headers/Public/ReactCommon/ReactCommon/RCTTurboModule.h \
+  /Users/rezaperdana/ReactNativeProject/AwesomeProject/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/rezaperdana/ReactNativeProject/AwesomeProject/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/rezaperdana/ReactNativeProject/AwesomeProject/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/rezaperdana/ReactNativeProject/AwesomeProject/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/rezaperdana/ReactNativeProject/AwesomeProject/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/rezaperdana/ReactNativeProject/AwesomeProject/ios/Pods/Headers/Public/React-Core/React/RCTModuleMethod.h \
+  /Users/rezaperdana/ReactNativeProject/AwesomeProject/ios/Pods/Headers/Public/React-Core/React/RCTBridgeMethod.h \
+  /Users/rezaperdana/ReactNativeProject/AwesomeProject/ios/Pods/Headers/Public/React-Core/React/RCTNullability.h \
+  /Users/rezaperdana/ReactNativeProject/AwesomeProject/ios/Pods/Headers/Public/ReactCommon/ReactCommon/JSCallInvoker.h \
+  /Users/rezaperdana/ReactNativeProject/AwesomeProject/ios/Pods/Headers/Public/ReactCommon/ReactCommon/TurboModule.h \
+  /Users/rezaperdana/ReactNativeProject/AwesomeProject/ios/Pods/Headers/Public/React-jsi/jsi/jsi.h \
+  /Users/rezaperdana/ReactNativeProject/AwesomeProject/ios/Pods/Headers/Public/React-jsi/jsi/jsi-inl.h \
+  /Users/rezaperdana/ReactNativeProject/AwesomeProject/ios/Pods/Headers/Public/React-cxxreact/cxxreact/MessageQueueThread.h
